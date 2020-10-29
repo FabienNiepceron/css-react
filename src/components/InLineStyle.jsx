@@ -15,7 +15,7 @@ const InLineStyle = () => {
 
     return (
         <div style={container}>
-            <img style={{borderRadius:'30px 30px 0px 0px', padding:'0.8rem'}} src="https://picsum.photos/400"/>
+            <img style={{borderRadius:'30px 30px 0px 0px', padding:'0.8rem'}} alt="text" src="https://picsum.photos/400"/>
             <h1 style={{color: '#0d1a26', fontWeight: 300, textShadow: '5px -3px 7px black', marginLeft:'2rem'}}>My card</h1>
             <h2 style={{color:'black', marginLeft:'2rem', fontWeight: 250, textShadow: '5px -3px 7px black',marginBottom:'0.1rem'}}>Secondary text</h2>
             <p style={{marginLeft:'2rem', marginBottom:'0.1rem'}}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet nam error in placeat quaerat, nesciunt dignissimos tenetur esse ad sunt, fuga quasi. Perferendis consequatur aliquid inventore assumenda modi. Aspernatur, officiis.</p>
